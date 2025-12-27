@@ -1,4 +1,4 @@
-# Tubes_Analisa_Muhammad-Salim-Mursid_202022420027
+# Tubes_Analisa Keputusan Untuk Teknologi Finansial - Muhammad Salim Mursid (202022420027)
 **Deskripsi**
 
 1. Judul : Loan Approval
