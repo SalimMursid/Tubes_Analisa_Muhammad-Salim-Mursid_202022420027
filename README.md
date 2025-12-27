@@ -16,3 +16,5 @@
 4. Train–Test Split (70:30, stratified) → strategi pembagian data
 
 5. Evaluasi → Accuracy, Precision, Recall, F1-Score, AUC, Confusion Matrix
+
+Logistic Regression dipilih karena kesederhanaan, efisiensi komputasi, dan tingkat interpretabilitas yang tinggi, sehingga cocok sebagai model awal pada prediksi risiko pinjaman. SVM dan Random Forest tidak digunakan karena kompleksitas komputasi yang lebih tinggi serta tingkat interpretabilitas yang lebih rendah, sehingga lebih sesuai dijadikan metode pengembangan lanjutan.
